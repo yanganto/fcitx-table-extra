@@ -4,7 +4,7 @@ set(ICON48
   fcitx-wu.png)
 set(ICON64
   fcitx-t9.png fcitx-boshiamy.png fcitx-easy-big.png fcitx-array30.png
-  fcitx-array30-big.png fcitx-zhengma.png)
+  fcitx-array30-big.png fcitx-array30-openvanilla.png fcitx-zhengma.png)
 
 install(FILES
     ${ICON64}

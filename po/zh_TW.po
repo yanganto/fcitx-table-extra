@@ -31,6 +31,10 @@ msgstr "行列30"
 msgid "Array30Big"
 msgstr "行列30大字集"
 
+#: tables/array30-openvanilla.conf.in:3
+msgid "Array30OpenVanilla"
+msgstr "行列30香草集"
+
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
 msgstr "嘸蝦米"

@@ -25,6 +25,10 @@ msgstr ""
 msgid "Array30"
 msgstr ""
 
+#: tables/array30-openvanilla.conf.in:3
+msgid "Array30OpenVanilla"
+msgstr ""
+
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
 msgstr ""

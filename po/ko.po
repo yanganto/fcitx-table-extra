@@ -27,6 +27,10 @@ msgstr "행렬30"
 msgid "Array30Big"
 msgstr "행렬30 큰글자 모음"
 
+#: tables/array30-openvanilla.conf.in:3
+msgid "Array30OpenVanilla"
+msgstr "행렬30 바닐라"
+
 #: tables/boshiamy.conf.in:3
 msgid "Boshiamy"
 msgstr "Boshiamy"
