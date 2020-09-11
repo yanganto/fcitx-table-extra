@@ -4,7 +4,7 @@ Requirements:
 
 Introduction:
     
-    fcitx-table-extra provides extra table for Fcitx, including Boshiamy, Zhengma, Cangjie, and Quick.
+    fcitx-table-extra provides extra table for Fcitx, including Array, Boshiamy, Quick, Cangjie, and Zhengma.
 
 Zhengma's patent is expired at 2009. [1]
 Boshiamy's patent is expired at 2003.11.11. [2]
