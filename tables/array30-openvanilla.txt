@@ -1,5 +1,5 @@
 Length=5
-KeyCode=abcdefghijklmnopqrstuvwxyz./;,
+KeyCode=abcdefghijklmnopqrstuvwxyz./;,1234567890
 [Data]
 ,	，
 ,	火
